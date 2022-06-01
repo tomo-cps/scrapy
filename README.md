@@ -9,7 +9,7 @@ This repository is for scraping using scrapy
   * [Pipelinefile](#Pipelinefile)
 - [Requirements](#Requirements)
 - [Install](#Install)
-- [Starter Repo](#Starter Repo)
+- [StarterRepo](#StarterRepo)
 
 <!-- tocstop -->
 
@@ -48,26 +48,26 @@ You can freely write processes such as saving to DB, file output, etc. according
 
 ## Install
 The quick way
-'''
+```
 pip install scrapy
-'''
+```
 See the install in the documentation at <https://docs.scrapy.org/en/latest/intro/install.html> for more details.
 
 From GitHub
-'''
+```
   git clone git@github.com:tomo-cps/scrapy.git
 
-'''
+```
 
 
-## Starter Repo
+## StarterRepo
 
 The starter repo needs to contains the following files:
 
 - `reviews.py`
 - `README.md`
 
-'''
+```
   cd spiders                                                           
   scrapy crawl reviews -o "保存したいファイル名".csv
-'''
+```
