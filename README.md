@@ -56,7 +56,6 @@ See the install in the documentation at <https://docs.scrapy.org/en/latest/intro
 From GitHub
 ```
   git clone git@github.com:tomo-cps/scrapy.git
-
 ```
 
 
