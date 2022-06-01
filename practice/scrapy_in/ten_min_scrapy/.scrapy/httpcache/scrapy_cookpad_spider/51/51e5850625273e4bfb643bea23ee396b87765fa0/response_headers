@@ -1,0 +1,15 @@
+Content-Length: 84
+Content-Type: text/plain; charset=utf-8
+Date: Mon, 09 May 2022 16:27:40 GMT
+Cache-Control: max-age=2592000
+Last-Modified: Mon, 09 May 2022 11:16:09 GMT
+Etag: "e381e8c3e4072a0bcd94b768e2b5eb6b"
+Server: AmazonS3
+Via: 1.1 929439fc8008e1e199a09db4822463c6.cloudfront.net (CloudFront)
+Age: 247516
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=63072000
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: NRT12-C5
+X-Amz-Cf-Id: 2yz2xY1R2pHS22mDdWAjys5z4-m7Ysyju-kq-43ANWvZgF_xT-d51A==

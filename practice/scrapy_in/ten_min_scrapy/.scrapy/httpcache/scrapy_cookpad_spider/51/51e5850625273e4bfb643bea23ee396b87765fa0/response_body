@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /wp-admin/
+
+Sitemap: https://www.zyte.com/sitemap_index.xml
